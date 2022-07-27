@@ -1,0 +1,50 @@
+.first {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.search {
+  width: 500px;
+  border: 2px solid black;
+  text-align: center;
+  height: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.title {
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.image {
+  padding-left: 20px;
+}
+.deatils {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.date {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500px;
+}
+.btnnow {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+.col-lg-3.col-md-6 {
+  padding-bottom: 30px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
